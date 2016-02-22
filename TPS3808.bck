@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TPS3808
+D Reset Supervisory, Programmable-Delay Supervisory Circuit
+K Reset, Delay, Supervisory, Circuit, TPS3808
+F http://www.ti.com/lit/ds/symlink/tps3808g33.pdf
+$ENDCMP
+#
+#End Doc Library
